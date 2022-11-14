@@ -4,7 +4,15 @@
 
 I'm Ali from Egypt, I do develop mobile applications. I really enjoy learning languages and frameworks like Flutter and React Native, I also enjoy dealing with the back-end, also enjoy the design in general.
 
-Skills: FLutter/C++/JAVA/ PYTHON/FIREBASE/OOP/DS
+##Skills
+
+- FLutter
+- C++
+- JAVA 
+- PYTHON
+- FIREBASE
+- OOP
+- DS
 
 - 🌱 I’m currently learning Clean Architecture With MVVM 
 
