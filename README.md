@@ -9,9 +9,9 @@ I'm Ali from Egypt, I do develop mobile applications. I really enjoy learning la
 
 - FLutter
 - C++
-- JAVA 
-- PYTHON
-- FIREBASE
+- Java 
+- Python
+- Firebase
 - OOP
 - DS
 
