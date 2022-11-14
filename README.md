@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ali El-Banna
 #### Mobile Application Developer (Flutter).
-![Mobile Application Developer (Flutter).](https://www.canva.com/design/DAFR91aiHOU/23q0Qw5qN0Whef4MEgeb8w/edit?utm_content=DAFR91aiHOU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Mobile Application Developer (Flutter).](https://pbs.twimg.com/profile_banners/1355941150797025281/1668467906/1080x360)
 
 I'm Ali from Egypt, I do develop mobile applications. I really enjoy learning languages and frameworks like Flutter and React Native, I also enjoy dealing with the back-end, also enjoy the design in general.
 
