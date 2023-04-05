@@ -3,7 +3,11 @@
 # Hi there 👋, I'm Ali El-Banna
 #### Mobile Application Developer (Flutter, Native).
 
-I'm Ali from Egypt, I do develop mobile applications. I really enjoy learning languages and frameworks like Flutter and React Native, I also enjoy dealing with the back-end, also enjoy the design in general.
+As a Junior Flutter Developer, I am passionate about creating beautiful and functional mobile applications that provide a seamless user experience. I have experience in developing and deploying apps on both iOS and Android platforms, and I am constantly learning and refining my skills to stay up-to-date with the latest technologies and best practices.
+
+With a strong foundation in object-oriented programming and a keen eye for design, I am able to collaborate effectively with designers, product managers, and other developers to deliver high-quality apps that meet user needs and exceed expectations. I am also comfortable working in a fast-paced, agile environment and have experience with version control systems like Git.
+
+In addition to my technical skills, I am a strong communicator and problem-solver, always striving to find creative solutions to complex challenges. I am excited to continue growing my skills and contributing to innovative projects in the Flutter development community.
 
 ## Skills
 
