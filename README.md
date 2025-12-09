@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Ali El-Banna**
-### **Mobile Application Developer – Flutter | Native (Android/iOS)**  
+### **Mobile Application Developer – Flutter | Native (Android)**  
 Passionate about building fast, scalable, and beautiful mobile apps.
 
 ---
