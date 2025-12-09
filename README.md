@@ -33,7 +33,7 @@ Always learning, always improving.
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android)
 ![iOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple)
-![Reat Native](https://img.shields.io/badge/-React%20native-000?&logo=React)
+![Reat Native](https://img.shields.io/badge/-React%20native-000?style=for-the-badge&logo=React)
 
 ### **Backend / Databases**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -44,9 +44,9 @@ Always learning, always improving.
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
 
 ### **Tools & UI/UX**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
